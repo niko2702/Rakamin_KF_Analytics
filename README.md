@@ -1,4 +1,5 @@
 Overview
+
 This project focuses on analyzing data related to Kimia Farma using SQL and visualization tools. The objective is to gain insights that can drive decision-making and improve business outcomes. The analysis includes querying and processing data, followed by creating meaningful visualizations to present findings effectively.
 
 Project Objectives
