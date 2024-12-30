@@ -15,3 +15,9 @@ Tools and Technologies
 2. Visualization Tools: Looker Studio and/or Tableau for creating insightful visualizations.
 3. Database Management: BigQuery or other database platforms.
 4. Spreadsheets: Microsoft Excel or Google Sheets for preliminary data analysis
+
+Recommendation
+1. Focus on expanding successful business models from top-performing cities (Subang, Garut, Purwakarta)
+2. Implement regional distribution centers in West Java to support high-performing areas
+3. Optimize inventory management based on city-specific demand patterns
+4. Create targeted promotional strategies based on local market analysis
